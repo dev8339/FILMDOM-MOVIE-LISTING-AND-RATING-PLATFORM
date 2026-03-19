@@ -13,15 +13,15 @@ Optimized UI: GPU-accelerated CSS transitions for smooth hover effects and gold-
 
 Tech stack and Architecture : 
 
-Layer :            Technology :              Key Usage :
+Layer :                                 Technology :                                    Key Usage :
 
-Frontend           Tailwind CSS              Utility-first styling & Responsive Grid systems
+Frontend                                Tailwind CSS                                    Utility-first styling & Responsive Grid systems
 
-Logic              Vanilla JS (ES6+)         Data filtering & Dynamic DOM manipulation
+Logic                                   Vanilla JS (ES6+)                               Data filtering & Dynamic DOM manipulation
 
-Icons              Font Awesome 6            Scalable, high-resolution cinematic iconography
+Icons                                   Font Awesome 6                                  Scalable, high-resolution cinematic iconography
 
-Deployment         GitHub Pages              Continuous global hosting
+Deployment                              GitHub Pages                                    Continuous global hosting
 
 
  SET UP AND INSTALLATION :
