@@ -1,9 +1,11 @@
 # FILMDOM-MOVIE-LISTING-AND-RATING-PLATFORM
 
 💎 Project Overview
+
 FILMDOM is a cinematic web interface engineered for a seamless movie browsing experience. Built with a "Mobile-First" philosophy, it balances a complex 50-movie database with a minimalist, high-end dark aesthetic and interactive UI components.
 
 🚀 Technical Features
+
 Dynamic Search Engine: Instant, character-by-character filtering using optimized JavaScript logic.
 Star Rating Algorithm: Custom JS helper functions to render visual star icons from numerical data points.
 Interactive Modals: State-managed pop-ups with YouTube integration for trailer playback.
@@ -18,4 +20,5 @@ Icons              Font Awesome 6            Scalable, high-resolution cinematic
 Deployment         GitHub Pages              Continuous global hosting
 
  SET UP AND INSTALLATION :
- LINK :
+ 
+ LINK :  https://dev8339.github.io/FILMDOM-MOVIE-LISTING-AND-RATING-PLATFORM/
