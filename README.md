@@ -19,7 +19,7 @@ Optimized UI: GPU-accelerated CSS transitions for smooth hover effects and gold-
 
 
 
-Tech stack and Architecture : 
+🚀 Tech stack and Architecture : 
 
 Layer :                                 Technology :                                    Key Usage :
 
@@ -33,6 +33,6 @@ Deployment                 -             GitHub Pages                     -     
 
 
 
- SET UP AND INSTALLATION :
+🚀 SET UP AND INSTALLATION :
  
  LINK :  https://dev8339.github.io/FILMDOM-MOVIE-LISTING-AND-RATING-PLATFORM/
